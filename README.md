@@ -1,7 +1,7 @@
 N26 API---STATISTICS FOR 60 SECONDS TRANSACTIONS
 ------------------------------------------------
 
-2 ENPOINT
+2 ENPOINTS
 
 ("/transactions") - only endpoint to enter trasaction in json format.
 
