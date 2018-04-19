@@ -55,7 +55,7 @@ SERVICE:
 
 STORAGE:
 -----------------
-Datas are stores in  memory LinkedList.The reason for using likedlist is because it has good insert and delete operation runtime complexity of O(1). Basically the remove operation in likedList is very effective in this kind of API where are is frequent deletion of data.  
+Datas are stored in  memory LinkedList.The reason for using likedlist is because it has good insert and delete operation runtime complexity of O(1). Basically the remove operation in likedList is very effective in this kind of API where there are frequent deletion of data every 60 seconds.  
 
 ####################################################################################################################
 
@@ -73,5 +73,5 @@ TEST CASES:
 There are 17 test cases
 
 - INTEGRATION TESTING for controllers
-- SANITY TESTING for the https layer
+- SANITY TESTING for the http layer
 - SERVICE TESTING for service class
